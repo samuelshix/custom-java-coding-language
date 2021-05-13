@@ -15,7 +15,7 @@ enum TokenType {
     IDENTIFIER, STRING, INT,
 
     // Keywords.
-    AND, AMP, ELSE, FALSE, FUN, IF,
+    AND, AMP, ELSE, FALSE, FUN, IF, PRINT,
     RETURN, TRUE, WHILE, BOOLTY, INTTY, FREE, MALLOC, GOTO,
 
     EOF

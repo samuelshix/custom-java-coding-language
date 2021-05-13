@@ -28,6 +28,7 @@ class Scanner {
         keywords.put("true",   TRUE);
         keywords.put("while",  WHILE);
         keywords.put("amp",  AMP);
+        keywords.put("print",  PRINT);
         keywords.put("bool",  BOOLTY);
         keywords.put("int",  INTTY);
         keywords.put("goto",  GOTO);
